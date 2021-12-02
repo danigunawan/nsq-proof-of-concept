@@ -1,5 +1,5 @@
 # Description
-This is example proof-of-concept for testing golang nsq distributed message platform 
+This is example proof-of-concept for testing nsq distributed message platform 
 
 # Running Confluent On Docker Compose
 make run
